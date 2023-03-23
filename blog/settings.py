@@ -11,9 +11,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-5_!xem08@*mh9j$-&_87-+kg&7kbvsm_d06p3mdc!u(*ndc*s='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['stark-dawn-44205.herokuapp.com', 'localhost', '127.0.0.1', '127.0.0.1:8000', 'tobisblogg.online']
+ALLOWED_HOSTS = ['lit-journey-15347.herokuapp.com', 'localhost', '127.0.0.1', '127.0.0.1:8000', 'tobisblogg.online']
 
 
 # Application definition
